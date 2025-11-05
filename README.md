@@ -62,7 +62,7 @@ RepositoryProject/
 ###  Clone the Repository
 
 ```bash
-git clone https://github.com/habibnstu/CSharp-Generic-Repository-Pattern.git](https://github.com/Irin-Mimo/CSharp-Generic-Repository-Pattern-main.git
+git clone https://github.com/Irin-Mimo/CSharp-Generic-Repository-Pattern-main.git
 ````
 
  Open in Visual Studio (or your preferred IDE)
