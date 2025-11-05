@@ -1,0 +1,7 @@
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\bin\Debug\RepositoryProject.exe.config
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\bin\Debug\RepositoryProject.exe
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\bin\Debug\RepositoryProject.pdb
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\obj\Debug\Repository.csproj.AssemblyReference.cache
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\obj\Debug\RepositoryProject.exe
+D:\IsBD Course\Module 03\C# Practise\RepositoryProject\01_20_2025\RepositoryProject\obj\Debug\RepositoryProject.pdb
